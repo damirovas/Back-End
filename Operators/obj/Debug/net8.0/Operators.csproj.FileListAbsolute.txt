@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Operators\bin\Debug\net8.0\Operators.exe
+C:\Users\Hp\Desktop\Back-End\Operators\bin\Debug\net8.0\Operators.deps.json
+C:\Users\Hp\Desktop\Back-End\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Operators\bin\Debug\net8.0\Operators.dll
+C:\Users\Hp\Desktop\Back-End\Operators\bin\Debug\net8.0\Operators.pdb
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\Operators.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\Operators.dll
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\refint\Operators.dll
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\Operators.pdb
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Operators\obj\Debug\net8.0\ref\Operators.dll
