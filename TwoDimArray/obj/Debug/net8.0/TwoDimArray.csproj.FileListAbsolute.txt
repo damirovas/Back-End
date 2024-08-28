@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\bin\Debug\net8.0\TwoDimArray.exe
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\bin\Debug\net8.0\TwoDimArray.deps.json
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\bin\Debug\net8.0\TwoDimArray.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\bin\Debug\net8.0\TwoDimArray.dll
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\bin\Debug\net8.0\TwoDimArray.pdb
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\TwoDimArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\TwoDimArray.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\TwoDimArray.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\TwoDimArray.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\TwoDimArray.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\TwoDimArray.dll
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\refint\TwoDimArray.dll
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\TwoDimArray.pdb
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\TwoDimArray.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\TwoDimArray\obj\Debug\net8.0\ref\TwoDimArray.dll
