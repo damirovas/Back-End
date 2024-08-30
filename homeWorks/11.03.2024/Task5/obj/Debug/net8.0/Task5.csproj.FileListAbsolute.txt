@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\bin\Debug\net8.0\Task5.exe
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\bin\Debug\net8.0\Task5.deps.json
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\bin\Debug\net8.0\Task5.dll
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\bin\Debug\net8.0\Task5.pdb
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\Task5.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\Task5.dll
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\refint\Task5.dll
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\Task5.pdb
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\homeWorks\11.03.2024\Task5\obj\Debug\net8.0\ref\Task5.dll
