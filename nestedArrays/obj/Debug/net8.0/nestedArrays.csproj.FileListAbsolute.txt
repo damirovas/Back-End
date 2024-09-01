@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\nestedArrays\bin\Debug\net8.0\nestedArrays.exe
+C:\Users\Hp\Desktop\Back-End\nestedArrays\bin\Debug\net8.0\nestedArrays.deps.json
+C:\Users\Hp\Desktop\Back-End\nestedArrays\bin\Debug\net8.0\nestedArrays.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\nestedArrays\bin\Debug\net8.0\nestedArrays.dll
+C:\Users\Hp\Desktop\Back-End\nestedArrays\bin\Debug\net8.0\nestedArrays.pdb
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\nestedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\nestedArrays.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\nestedArrays.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\nestedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\nestedArrays.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\nestedArrays.dll
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\refint\nestedArrays.dll
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\nestedArrays.pdb
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\nestedArrays.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\nestedArrays\obj\Debug\net8.0\ref\nestedArrays.dll
