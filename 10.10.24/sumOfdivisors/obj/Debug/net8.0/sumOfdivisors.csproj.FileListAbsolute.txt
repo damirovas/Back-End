@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\bin\Debug\net8.0\sumOfdivisors.exe
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\bin\Debug\net8.0\sumOfdivisors.deps.json
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\bin\Debug\net8.0\sumOfdivisors.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\bin\Debug\net8.0\sumOfdivisors.dll
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\bin\Debug\net8.0\sumOfdivisors.pdb
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\sumOfdivisors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\sumOfdivisors.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\sumOfdivisors.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\sumOfdivisors.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\sumOfdivisors.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\sumOfdivisors.dll
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\refint\sumOfdivisors.dll
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\sumOfdivisors.pdb
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\sumOfdivisors.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\10.10.24\sumOfdivisors\obj\Debug\net8.0\ref\sumOfdivisors.dll

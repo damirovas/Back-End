@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\bin\Debug\net8.0\hollowTriangle.exe
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\bin\Debug\net8.0\hollowTriangle.deps.json
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\bin\Debug\net8.0\hollowTriangle.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\bin\Debug\net8.0\hollowTriangle.dll
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\bin\Debug\net8.0\hollowTriangle.pdb
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\hollowTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\hollowTriangle.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\hollowTriangle.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\hollowTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\hollowTriangle.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\hollowTriangle.dll
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\refint\hollowTriangle.dll
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\hollowTriangle.pdb
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\hollowTriangle.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\10.10.24\hollowTriangle\obj\Debug\net8.0\ref\hollowTriangle.dll
