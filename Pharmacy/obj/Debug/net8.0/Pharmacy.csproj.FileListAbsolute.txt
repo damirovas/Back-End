@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Pharmacy\bin\Debug\net8.0\Pharmacy.exe
+C:\Users\Hp\Desktop\Back-End\Pharmacy\bin\Debug\net8.0\Pharmacy.deps.json
+C:\Users\Hp\Desktop\Back-End\Pharmacy\bin\Debug\net8.0\Pharmacy.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Pharmacy\bin\Debug\net8.0\Pharmacy.dll
+C:\Users\Hp\Desktop\Back-End\Pharmacy\bin\Debug\net8.0\Pharmacy.pdb
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\Pharmacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\Pharmacy.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\Pharmacy.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\Pharmacy.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\Pharmacy.dll
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\refint\Pharmacy.dll
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\Pharmacy.pdb
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\Pharmacy.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Pharmacy\obj\Debug\net8.0\ref\Pharmacy.dll
