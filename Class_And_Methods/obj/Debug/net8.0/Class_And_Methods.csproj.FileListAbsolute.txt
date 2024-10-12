@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\bin\Debug\net8.0\Class_And_Methods.exe
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\bin\Debug\net8.0\Class_And_Methods.deps.json
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\bin\Debug\net8.0\Class_And_Methods.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\bin\Debug\net8.0\Class_And_Methods.dll
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\bin\Debug\net8.0\Class_And_Methods.pdb
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\Class_And_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\Class_And_Methods.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\Class_And_Methods.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\Class_And_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\Class_And_Methods.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\Class_And_Methods.dll
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\refint\Class_And_Methods.dll
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\Class_And_Methods.pdb
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\Class_And_Methods.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Class_And_Methods\obj\Debug\net8.0\ref\Class_And_Methods.dll
