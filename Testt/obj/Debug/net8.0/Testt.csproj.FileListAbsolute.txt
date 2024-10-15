@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\Back-End\Testt\bin\Debug\net8.0\Testt.deps.json
+C:\Users\Hp\Desktop\Back-End\Testt\bin\Debug\net8.0\Testt.dll
+C:\Users\Hp\Desktop\Back-End\Testt\bin\Debug\net8.0\Testt.pdb
+C:\Users\Hp\Desktop\Back-End\Testt\obj\Debug\net8.0\Testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Testt\obj\Debug\net8.0\Testt.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Testt\obj\Debug\net8.0\Testt.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Testt\obj\Debug\net8.0\Testt.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Testt\obj\Debug\net8.0\Testt.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Testt\obj\Debug\net8.0\Testt.dll
+C:\Users\Hp\Desktop\Back-End\Testt\obj\Debug\net8.0\refint\Testt.dll
+C:\Users\Hp\Desktop\Back-End\Testt\obj\Debug\net8.0\Testt.pdb
+C:\Users\Hp\Desktop\Back-End\Testt\obj\Debug\net8.0\ref\Testt.dll

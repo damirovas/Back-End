@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Teachers\bin\Debug\net8.0\Teachers.exe
+C:\Users\Hp\Desktop\Back-End\Teachers\bin\Debug\net8.0\Teachers.deps.json
+C:\Users\Hp\Desktop\Back-End\Teachers\bin\Debug\net8.0\Teachers.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Teachers\bin\Debug\net8.0\Teachers.dll
+C:\Users\Hp\Desktop\Back-End\Teachers\bin\Debug\net8.0\Teachers.pdb
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\Teachers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\Teachers.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\Teachers.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\Teachers.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\Teachers.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\Teachers.dll
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\refint\Teachers.dll
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\Teachers.pdb
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\Teachers.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Teachers\obj\Debug\net8.0\ref\Teachers.dll
