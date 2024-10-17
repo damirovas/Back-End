@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\AllIndexs\bin\Debug\net8.0\AllIndexs.exe
+C:\Users\Hp\Desktop\Back-End\AllIndexs\bin\Debug\net8.0\AllIndexs.deps.json
+C:\Users\Hp\Desktop\Back-End\AllIndexs\bin\Debug\net8.0\AllIndexs.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\AllIndexs\bin\Debug\net8.0\AllIndexs.dll
+C:\Users\Hp\Desktop\Back-End\AllIndexs\bin\Debug\net8.0\AllIndexs.pdb
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\AllIndexs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\AllIndexs.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\AllIndexs.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\AllIndexs.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\AllIndexs.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\AllIndexs.dll
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\refint\AllIndexs.dll
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\AllIndexs.pdb
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\AllIndexs.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\AllIndexs\obj\Debug\net8.0\ref\AllIndexs.dll

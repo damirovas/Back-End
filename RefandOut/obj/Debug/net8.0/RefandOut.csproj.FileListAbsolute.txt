@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\RefandOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\RefandOut.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\RefandOut.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\RefandOut.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\RefandOut.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\RefandOut\bin\Debug\net8.0\RefandOut.exe
+C:\Users\Hp\Desktop\Back-End\RefandOut\bin\Debug\net8.0\RefandOut.deps.json
+C:\Users\Hp\Desktop\Back-End\RefandOut\bin\Debug\net8.0\RefandOut.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\RefandOut\bin\Debug\net8.0\RefandOut.dll
+C:\Users\Hp\Desktop\Back-End\RefandOut\bin\Debug\net8.0\RefandOut.pdb
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\RefandOut.dll
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\refint\RefandOut.dll
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\RefandOut.pdb
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\RefandOut.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\RefandOut\obj\Debug\net8.0\ref\RefandOut.dll

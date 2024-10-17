@@ -1,5 +1,5 @@
 ﻿using AbstractClasses.Abstracts;
-using Testt;
+
 
 namespace AbstractClasses
 {
@@ -7,9 +7,9 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
-          //Bird bird = new Bird();
-          //bird.Move();
-          Test test = new Test();
+          Bird bird = new Bird("Burhan");
+            bird.Move();
+            Console.WriteLine(bird);
         }
     }
 }

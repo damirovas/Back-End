@@ -13,7 +13,3 @@ C:\Users\Hp\Desktop\Back-End\AbstractClasses\obj\Debug\net8.0\refint\AbstractCla
 C:\Users\Hp\Desktop\Back-End\AbstractClasses\obj\Debug\net8.0\AbstractClasses.pdb
 C:\Users\Hp\Desktop\Back-End\AbstractClasses\obj\Debug\net8.0\AbstractClasses.genruntimeconfig.cache
 C:\Users\Hp\Desktop\Back-End\AbstractClasses\obj\Debug\net8.0\ref\AbstractClasses.dll
-C:\Users\Hp\Desktop\Back-End\AbstractClasses\bin\Debug\net8.0\Testt.dll
-C:\Users\Hp\Desktop\Back-End\AbstractClasses\bin\Debug\net8.0\Testt.pdb
-C:\Users\Hp\Desktop\Back-End\AbstractClasses\obj\Debug\net8.0\AbstractClasses.csproj.AssemblyReference.cache
-C:\Users\Hp\Desktop\Back-End\AbstractClasses\obj\Debug\net8.0\Abstract.7DACE321.Up2Date

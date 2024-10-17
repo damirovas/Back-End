@@ -13,7 +13,7 @@ namespace Teachers
         public string Name { get; set; }
         public string LastName { get; set; }
         public int BirthtYear { get; set; }
-        public Person(int id,string name,string lastname,int birthyear)
+        public Person(int id,string name,string lastname,int birthyear )
         {
             Id= id;
             Name= name;
@@ -21,9 +21,9 @@ namespace Teachers
             BirthtYear= birthyear;
 
         }
-        public  virtual void GetTeacher()
+        public  virtual string GetTeacher()
         {
-            Console.WriteLine($"Bame--{Name},LastName--{LastName},BirtYear--{BirthtYear}");
+            return $"Name--{Name},LastName--{LastName},BirtYear--{BirthtYear}";
         }
     }
 }

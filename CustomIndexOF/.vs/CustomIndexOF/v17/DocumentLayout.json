@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Back-End\\CustomIndexOF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E133BD-9B76-49CB-B143-EF29978A52C5}|CustomIndexOF.csproj|c:\\users\\hp\\desktop\\back-end\\customindexof\\custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E133BD-9B76-49CB-B143-EF29978A52C5}|CustomIndexOF.csproj|solutionrelative:custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E133BD-9B76-49CB-B143-EF29978A52C5}|CustomIndexOF.csproj|c:\\users\\hp\\desktop\\back-end\\customindexof\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E133BD-9B76-49CB-B143-EF29978A52C5}|CustomIndexOF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Custom.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\CustomIndexOF\\Custom.cs",
+              "RelativeDocumentMoniker": "Custom.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\CustomIndexOF\\Custom.cs",
+              "RelativeToolTip": "Custom.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:03:04.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\CustomIndexOF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\CustomIndexOF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:02:36.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

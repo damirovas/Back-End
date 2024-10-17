@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Back-End\\15.10.24\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6480816B-496A-41CD-8A2D-B6FFD3A224D4}|Task3.csproj|c:\\users\\hp\\desktop\\back-end\\15.10.24\\task3\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6480816B-496A-41CD-8A2D-B6FFD3A224D4}|Task3.csproj|solutionrelative:power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6480816B-496A-41CD-8A2D-B6FFD3A224D4}|Task3.csproj|c:\\users\\hp\\desktop\\back-end\\15.10.24\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6480816B-496A-41CD-8A2D-B6FFD3A224D4}|Task3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Power.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\15.10.24\\Task3\\Power.cs",
+              "RelativeDocumentMoniker": "Power.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\15.10.24\\Task3\\Power.cs",
+              "RelativeToolTip": "Power.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:26:51.499Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\15.10.24\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\15.10.24\\Task3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:49:39.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

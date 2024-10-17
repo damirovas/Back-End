@@ -17,9 +17,9 @@ namespace Teachers
             Specialization = specializiation;
 
         }
-        public override void GetTeacher()
+        public override string GetTeacher()
         {
-            Console.WriteLine($"Name--{Name},LastName--{LastName},University--{University},Specializiation--{Specialization}");
+            return $"Name--{Name},LastName--{LastName},University--{University},Specializiation--{Specialization}";
 
         }
     }

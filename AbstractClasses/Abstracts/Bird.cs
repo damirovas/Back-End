@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace AbstractClasses.Abstracts
 {
-    internal class Bird : Animal
+    internal class Bird : Animal 
+       
     {
+        public Bird(string name) :base(name) 
+        {
+            Name= name;
+        }
         public override void Move()
         {
             Console.WriteLine("Birds are flying");

@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\CustomIndexOF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\CustomIndexOF.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\CustomIndexOF.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\CustomIndexOF.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\CustomIndexOF.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\bin\Debug\net8.0\CustomIndexOF.exe
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\bin\Debug\net8.0\CustomIndexOF.deps.json
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\bin\Debug\net8.0\CustomIndexOF.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\bin\Debug\net8.0\CustomIndexOF.dll
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\bin\Debug\net8.0\CustomIndexOF.pdb
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\CustomIndexOF.dll
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\refint\CustomIndexOF.dll
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\CustomIndexOF.pdb
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\CustomIndexOF.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\CustomIndexOF\obj\Debug\net8.0\ref\CustomIndexOF.dll

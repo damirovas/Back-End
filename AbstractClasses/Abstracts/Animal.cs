@@ -8,6 +8,10 @@ namespace AbstractClasses.Abstracts
 {
     internal abstract class Animal
     {
+        protected Animal(string name)
+        {
+            Name = name;
+        }
         protected string Name { get; set; }
         public abstract void Move();
         
