@@ -9,7 +9,7 @@
             Random ran = new Random();
             for (int i = 0; i < arr.Length; i++)
             {
-                arr[i] = ran.Next(1, 50);
+                arr[i] = ran.Next(0, 8);
             }
             for (int i = 0; i < arr.Length; i++)
             {
@@ -20,20 +20,20 @@
             }
             int[] arr1 = new int[4];
             int[] arr2 = new int[4];
-            int setarr1 = 0, setarr2 = 0;
-            for (int i = 0; i < arr.Length && setarr1 < 4; i++)
+            int inarr1 = 0, inarr2 = 0;
+            for (int i = 0; i < arr.Length && inarr1 < 4; i++)
             {
                 if (!isUsed[i])
                 {
-                    arr1[setarr1++] = arr[i];
+                    arr1[inarr1++] = arr[i];
                     isUsed[i] = true;
                 }
             }
-            for (int i = 0; i < arr.Length && setarr2 < 4; i++)
+            for (int i = 0; i < arr.Length && inarr2 < 4; i++)
             {
                 if (!isUsed[i])
                 {
-                    arr2[setarr2++] = arr[i];
+                    arr2[inarr2++] = arr[i];
                     isUsed[i] = true;
                 }
             }

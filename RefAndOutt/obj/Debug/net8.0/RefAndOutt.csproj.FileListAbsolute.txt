@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\bin\Debug\net8.0\RefAndOutt.exe
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\bin\Debug\net8.0\RefAndOutt.deps.json
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\bin\Debug\net8.0\RefAndOutt.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\bin\Debug\net8.0\RefAndOutt.dll
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\bin\Debug\net8.0\RefAndOutt.pdb
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\RefAndOutt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\RefAndOutt.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\RefAndOutt.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\RefAndOutt.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\RefAndOutt.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\RefAndOutt.dll
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\refint\RefAndOutt.dll
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\RefAndOutt.pdb
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\RefAndOutt.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\RefAndOutt\obj\Debug\net8.0\ref\RefAndOutt.dll
