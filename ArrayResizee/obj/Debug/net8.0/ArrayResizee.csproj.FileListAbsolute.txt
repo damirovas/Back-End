@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\bin\Debug\net8.0\ArrayResizee.exe
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\bin\Debug\net8.0\ArrayResizee.deps.json
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\bin\Debug\net8.0\ArrayResizee.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\bin\Debug\net8.0\ArrayResizee.dll
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\bin\Debug\net8.0\ArrayResizee.pdb
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\ArrayResizee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\ArrayResizee.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\ArrayResizee.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\ArrayResizee.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\ArrayResizee.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\ArrayResizee.dll
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\refint\ArrayResizee.dll
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\ArrayResizee.pdb
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\ArrayResizee.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\ArrayResizee\obj\Debug\net8.0\ref\ArrayResizee.dll

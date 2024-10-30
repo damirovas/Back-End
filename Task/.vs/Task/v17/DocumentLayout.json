@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Back-End\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4876208B-6CF7-4435-B914-4B3830E5EE9A}|Task.csproj|c:\\users\\hp\\desktop\\back-end\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4876208B-6CF7-4435-B914-4B3830E5EE9A}|Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4876208B-6CF7-4435-B914-4B3830E5EE9A}|Task.csproj|c:\\users\\hp\\desktop\\back-end\\task\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4876208B-6CF7-4435-B914-4B3830E5EE9A}|Task.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4876208B-6CF7-4435-B914-4B3830E5EE9A}|Task.csproj|c:\\users\\hp\\desktop\\back-end\\task\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4876208B-6CF7-4435-B914-4B3830E5EE9A}|Task.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Task\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Task\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:53:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Task\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Task\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:53:22.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:46:54.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

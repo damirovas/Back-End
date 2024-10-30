@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Back-End\\StaticAndBuliders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45D65BC6-386D-4792-839D-4EBFB59B5E06}|StaticAndBuliders.csproj|c:\\users\\hp\\desktop\\back-end\\staticandbuliders\\mathematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D65BC6-386D-4792-839D-4EBFB59B5E06}|StaticAndBuliders.csproj|solutionrelative:mathematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D65BC6-386D-4792-839D-4EBFB59B5E06}|StaticAndBuliders.csproj|c:\\users\\hp\\desktop\\back-end\\staticandbuliders\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D65BC6-386D-4792-839D-4EBFB59B5E06}|StaticAndBuliders.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D65BC6-386D-4792-839D-4EBFB59B5E06}|StaticAndBuliders.csproj|c:\\users\\hp\\desktop\\back-end\\staticandbuliders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D65BC6-386D-4792-839D-4EBFB59B5E06}|StaticAndBuliders.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\StaticAndBuliders\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\StaticAndBuliders\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:52:26.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\StaticAndBuliders\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\StaticAndBuliders\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:22:51.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mathematics.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\StaticAndBuliders\\Mathematics.cs",
+              "RelativeDocumentMoniker": "Mathematics.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\StaticAndBuliders\\Mathematics.cs",
+              "RelativeToolTip": "Mathematics.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:26:05.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
