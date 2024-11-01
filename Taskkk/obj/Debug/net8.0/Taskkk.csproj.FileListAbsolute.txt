@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Taskkk\bin\Debug\net8.0\Taskkk.exe
+C:\Users\Hp\Desktop\Back-End\Taskkk\bin\Debug\net8.0\Taskkk.deps.json
+C:\Users\Hp\Desktop\Back-End\Taskkk\bin\Debug\net8.0\Taskkk.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Taskkk\bin\Debug\net8.0\Taskkk.dll
+C:\Users\Hp\Desktop\Back-End\Taskkk\bin\Debug\net8.0\Taskkk.pdb
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\Taskkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\Taskkk.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\Taskkk.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\Taskkk.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\Taskkk.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\Taskkk.dll
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\refint\Taskkk.dll
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\Taskkk.pdb
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\Taskkk.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Taskkk\obj\Debug\net8.0\ref\Taskkk.dll

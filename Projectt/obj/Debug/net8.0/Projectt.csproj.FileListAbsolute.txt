@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Projectt\bin\Debug\net8.0\Projectt.exe
+C:\Users\Hp\Desktop\Back-End\Projectt\bin\Debug\net8.0\Projectt.deps.json
+C:\Users\Hp\Desktop\Back-End\Projectt\bin\Debug\net8.0\Projectt.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Projectt\bin\Debug\net8.0\Projectt.dll
+C:\Users\Hp\Desktop\Back-End\Projectt\bin\Debug\net8.0\Projectt.pdb
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\Projectt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\Projectt.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\Projectt.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\Projectt.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\Projectt.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\Projectt.dll
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\refint\Projectt.dll
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\Projectt.pdb
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\Projectt.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Projectt\obj\Debug\net8.0\ref\Projectt.dll
