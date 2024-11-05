@@ -29,11 +29,9 @@ namespace Task1
                         Console.WriteLine("Something went wrong :((");
                         result= EnterChoosens();
                         break;
-
                 }
             }
         }
-
         static int EnterChoosens()
         {
             Console.WriteLine("Press o to exit");
@@ -42,7 +40,6 @@ namespace Task1
             Console.WriteLine("Press 3 to know how the bird moves");
             int result = int.Parse(Console.ReadLine());
             return result;
-
         }
         static Dog GetDog()
         {

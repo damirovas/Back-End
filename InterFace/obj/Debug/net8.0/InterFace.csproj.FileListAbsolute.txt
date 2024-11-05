@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\InterFace\bin\Debug\net8.0\InterFace.exe
+C:\Users\Hp\Desktop\Back-End\InterFace\bin\Debug\net8.0\InterFace.deps.json
+C:\Users\Hp\Desktop\Back-End\InterFace\bin\Debug\net8.0\InterFace.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\InterFace\bin\Debug\net8.0\InterFace.dll
+C:\Users\Hp\Desktop\Back-End\InterFace\bin\Debug\net8.0\InterFace.pdb
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\InterFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\InterFace.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\InterFace.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\InterFace.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\InterFace.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\InterFace.dll
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\refint\InterFace.dll
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\InterFace.pdb
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\InterFace.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\InterFace\obj\Debug\net8.0\ref\InterFace.dll

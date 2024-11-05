@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|c:\\users\\hp\\desktop\\back-end\\interface\\animals\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|solutionrelative:animals\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|c:\\users\\hp\\desktop\\back-end\\interface\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|solutionrelative:animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|c:\\users\\hp\\desktop\\back-end\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|c:\\users\\hp\\desktop\\back-end\\interface\\animals\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|solutionrelative:animals\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|c:\\users\\hp\\desktop\\back-end\\interface\\interfaces\\imove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|solutionrelative:interfaces\\imove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|c:\\users\\hp\\desktop\\back-end\\interface\\interfaces\\irun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|solutionrelative:interfaces\\irun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|c:\\users\\hp\\desktop\\back-end\\interface\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|solutionrelative:animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|c:\\users\\hp\\desktop\\back-end\\interface\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|solutionrelative:interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|c:\\users\\hp\\desktop\\back-end\\interface\\interfaces\\iswimable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654D414F-7F22-42CD-B488-A48D565CB8CE}|InterFace.csproj|solutionrelative:interfaces\\iswimable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Irun.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Interfaces\\Irun.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Irun.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Interfaces\\Irun.cs",
+              "RelativeToolTip": "Interfaces\\Irun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:05:15.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ifly.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Interfaces\\Ifly.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Ifly.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Interfaces\\Ifly.cs",
+              "RelativeToolTip": "Interfaces\\Ifly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:53:22.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Imove.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Interfaces\\Imove.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Imove.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Interfaces\\Imove.cs",
+              "RelativeToolTip": "Interfaces\\Imove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:52:39.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Iswimable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Interfaces\\Iswimable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Iswimable.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Interfaces\\Iswimable.cs",
+              "RelativeToolTip": "Interfaces\\Iswimable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:50:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Animals\\Fish.cs",
+              "RelativeDocumentMoniker": "Animals\\Fish.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Animals\\Fish.cs",
+              "RelativeToolTip": "Animals\\Fish.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:48:34.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Animals\\Cat.cs",
+              "RelativeToolTip": "Animals\\Cat.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAawAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:48:00.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Animals\\Duck.cs",
+              "RelativeDocumentMoniker": "Animals\\Duck.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Animals\\Duck.cs",
+              "RelativeToolTip": "Animals\\Duck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:47:51.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Animals\\Animal.cs",
+              "RelativeToolTip": "Animals\\Animal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:47:42.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\InterFace\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:47:06.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

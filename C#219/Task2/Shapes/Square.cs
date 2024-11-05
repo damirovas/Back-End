@@ -24,7 +24,7 @@ namespace Task2.Shapes
 
         public override void GetPerimeter()
         {
-            decimal perimeter = 2*(Width * Height);
+            decimal perimeter = 2*(Width + Height);
             Console.WriteLine(perimeter);
         }
     }

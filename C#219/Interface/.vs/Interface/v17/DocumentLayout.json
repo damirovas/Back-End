@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|c:\\users\\hp\\desktop\\back-end\\c#219\\interface\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|solutionrelative:fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|c:\\users\\hp\\desktop\\back-end\\c#219\\interface\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|c:\\users\\hp\\desktop\\back-end\\c#219\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|c:\\users\\hp\\desktop\\back-end\\c#219\\interface\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|solutionrelative:iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|c:\\users\\hp\\desktop\\back-end\\c#219\\interface\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|solutionrelative:duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|c:\\users\\hp\\desktop\\back-end\\c#219\\interface\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|c:\\users\\hp\\desktop\\back-end\\c#219\\interface\\irun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11213B1E-8CDE-4C51-B6EB-470964AFD7AF}|Interface.csproj|solutionrelative:irun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Dog.cs*",
+              "RelativeToolTip": "Dog.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:06:22.24Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Irun.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Irun.cs",
+              "RelativeDocumentMoniker": "Irun.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Irun.cs*",
+              "RelativeToolTip": "Irun.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:17:57.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iswim.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Iswim.cs",
+              "RelativeDocumentMoniker": "Iswim.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Iswim.cs*",
+              "RelativeToolTip": "Iswim.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:16:21.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Animal.cs*",
+              "RelativeToolTip": "Animal.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:07:29.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Fish.cs",
+              "RelativeDocumentMoniker": "Fish.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Fish.cs*",
+              "RelativeToolTip": "Fish.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:06:51.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Duck.cs",
+              "RelativeDocumentMoniker": "Duck.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Duck.cs*",
+              "RelativeToolTip": "Duck.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:06:32.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\C#219\\Interface\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:05:13.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
