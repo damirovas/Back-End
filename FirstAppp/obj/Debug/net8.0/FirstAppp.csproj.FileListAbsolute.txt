@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\FirstAppp\bin\Debug\net8.0\FirstAppp.exe
+C:\Users\Hp\Desktop\Back-End\FirstAppp\bin\Debug\net8.0\FirstAppp.deps.json
+C:\Users\Hp\Desktop\Back-End\FirstAppp\bin\Debug\net8.0\FirstAppp.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\FirstAppp\bin\Debug\net8.0\FirstAppp.dll
+C:\Users\Hp\Desktop\Back-End\FirstAppp\bin\Debug\net8.0\FirstAppp.pdb
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\FirstAppp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\FirstAppp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\FirstAppp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\FirstAppp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\FirstAppp.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\FirstAppp.dll
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\refint\FirstAppp.dll
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\FirstAppp.pdb
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\FirstAppp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\FirstAppp\obj\Debug\net8.0\ref\FirstAppp.dll
