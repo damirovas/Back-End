@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Staticc\bin\Debug\net8.0\Staticc.exe
+C:\Users\Hp\Desktop\Back-End\Staticc\bin\Debug\net8.0\Staticc.deps.json
+C:\Users\Hp\Desktop\Back-End\Staticc\bin\Debug\net8.0\Staticc.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Staticc\bin\Debug\net8.0\Staticc.dll
+C:\Users\Hp\Desktop\Back-End\Staticc\bin\Debug\net8.0\Staticc.pdb
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\Staticc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\Staticc.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\Staticc.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\Staticc.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\Staticc.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\Staticc.dll
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\refint\Staticc.dll
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\Staticc.pdb
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\Staticc.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Staticc\obj\Debug\net8.0\ref\Staticc.dll

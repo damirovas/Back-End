@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Generics\bin\Debug\net8.0\Generics.exe
+C:\Users\Hp\Desktop\Back-End\Generics\bin\Debug\net8.0\Generics.deps.json
+C:\Users\Hp\Desktop\Back-End\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Generics\bin\Debug\net8.0\Generics.dll
+C:\Users\Hp\Desktop\Back-End\Generics\bin\Debug\net8.0\Generics.pdb
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\Generics.dll
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\refint\Generics.dll
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\Generics.pdb
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Generics\obj\Debug\net8.0\ref\Generics.dll
