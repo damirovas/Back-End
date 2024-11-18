@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\App\bin\Debug\net8.0\App.exe
+C:\Users\Hp\Desktop\Back-End\App\bin\Debug\net8.0\App.deps.json
+C:\Users\Hp\Desktop\Back-End\App\bin\Debug\net8.0\App.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\App\bin\Debug\net8.0\App.dll
+C:\Users\Hp\Desktop\Back-End\App\bin\Debug\net8.0\App.pdb
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\App.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\App.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\App.dll
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\refint\App.dll
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\App.pdb
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\App.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\App\obj\Debug\net8.0\ref\App.dll

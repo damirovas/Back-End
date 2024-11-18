@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\bin\Debug\net8.0\LibrarySytstem.exe
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\bin\Debug\net8.0\LibrarySytstem.deps.json
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\bin\Debug\net8.0\LibrarySytstem.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\bin\Debug\net8.0\LibrarySytstem.dll
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\bin\Debug\net8.0\LibrarySytstem.pdb
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\LibrarySytstem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\LibrarySytstem.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\LibrarySytstem.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\LibrarySytstem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\LibrarySytstem.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\LibrarySytstem.dll
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\refint\LibrarySytstem.dll
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\LibrarySytstem.pdb
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\LibrarySytstem.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\LibrarySytstem\obj\Debug\net8.0\ref\LibrarySytstem.dll
