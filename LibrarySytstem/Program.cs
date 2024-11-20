@@ -7,13 +7,43 @@ namespace LibrarySytstem
     {
         static void Main(string[] args)
         {
-            int result = int.Parse(Console.ReadLine());
+            int result = EnterChoosens();
             Library library = null;
             Worker worker = null;
             switch (result)
             {
-                    
 
+                case 1:
+                    library = EnterLibraryDetails();
+                    result = EnterChoosens();
+                    break;
+                case 2:
+                    Book book = EnterBookDetails();
+                    library?.AddBook(book);
+                    result = EnterChoosens();
+                break;
+                    case 3:
+                    library?.GetBook();
+                    result = EnterChoosens();   
+                    break;
+                    case 4:
+                    Console.WriteLine("editlenecek id daxil edin");
+                    int editId = int.Parse(Console.ReadLine());
+                    Book updatedbook = EnterBookDetails();
+                    library.AddBook(updatedbook);   
+                    result= EnterChoosens();
+                    break;
+                    case 5:
+                    Console.WriteLine("Silinecek book id sini yaz");
+                    int removeId = int.Parse(Console.ReadLine());
+                    library?.RemoveBook(removeId);
+                    result = EnterChoosens();
+
+                    break;
+                default:
+                    Console.WriteLine("Yanlis secim");
+                    result = EnterChoosens();
+                    break;
             }
 
 

@@ -33,7 +33,7 @@ namespace LibrarySytstem.Classes
         {
             if (books.Length > Limit)
             {
-                Array.Resize(ref books, books.Length);
+                Array.Resize(ref books, books.Length+1);
                 books[books.Length - 1] = book;
             }
             else
@@ -87,13 +87,13 @@ namespace LibrarySytstem.Classes
             Array.Resize(ref workers, workers.Length+1);
             workers[workers.Length-1] =worker;
         }
-        public void RemoveWorker(int removeWorker)
+        public void RemoveWorker(int removeId)
         {
             Worker[] newWorker ={ };
             Worker removedWorker = null; 
             foreach(Worker w in workers)
             {
-                if(w.Id != removeWorker)
+                if(w.Id != removeId)
                 {
                    Array.Resize(ref  newWorker, workers.Length+1);
                     workers[workers.Length-1] =w;

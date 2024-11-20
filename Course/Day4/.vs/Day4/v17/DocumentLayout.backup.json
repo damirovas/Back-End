@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Back-End\\Course\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12898ED1-1AF4-4121-AF30-E4E542898EE4}|..\\Collection\\Collection.csproj|c:\\users\\hp\\desktop\\back-end\\course\\collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1399F-D1CE-44D9-83B9-7ECA9F95EE54}|..\\Generics\\Generics.csproj|c:\\users\\hp\\desktop\\back-end\\course\\generics\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F1399F-D1CE-44D9-83B9-7ECA9F95EE54}|..\\Generics\\Generics.csproj|c:\\users\\hp\\desktop\\back-end\\course\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Course\\Collection\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Course\\Collection\\Program.cs*",
+              "RelativeToolTip": "..\\Collection\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:10:48.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Course\\Generics\\MyList.cs",
+              "RelativeDocumentMoniker": "..\\Generics\\MyList.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Course\\Generics\\MyList.cs",
+              "RelativeToolTip": "..\\Generics\\MyList.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:33:30.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Course\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Course\\Generics\\Program.cs",
+              "RelativeToolTip": "..\\Generics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:32:33.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

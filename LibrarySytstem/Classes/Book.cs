@@ -14,7 +14,7 @@ namespace LibrarySytstem.Classes
         public string Genre { get; set; }
         public string Author { get; set; }
         public int PageCount { get; set; }
-
+        
         public Book(string name,string genre, string author, int pageCount)
         {
             Name = name;
