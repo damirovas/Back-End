@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\Apppp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\Apppp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\Apppp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\Apppp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\Apppp.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Apppp\bin\Debug\net8.0\Apppp.exe
+C:\Users\Hp\Desktop\Back-End\Apppp\bin\Debug\net8.0\Apppp.deps.json
+C:\Users\Hp\Desktop\Back-End\Apppp\bin\Debug\net8.0\Apppp.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Apppp\bin\Debug\net8.0\Apppp.dll
+C:\Users\Hp\Desktop\Back-End\Apppp\bin\Debug\net8.0\Apppp.pdb
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\Apppp.dll
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\refint\Apppp.dll
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\Apppp.pdb
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\Apppp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Apppp\obj\Debug\net8.0\ref\Apppp.dll

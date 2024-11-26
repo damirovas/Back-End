@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\TicketApp\bin\Debug\net8.0\TicketApp.exe
+C:\Users\Hp\Desktop\Back-End\TicketApp\bin\Debug\net8.0\TicketApp.deps.json
+C:\Users\Hp\Desktop\Back-End\TicketApp\bin\Debug\net8.0\TicketApp.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\TicketApp\bin\Debug\net8.0\TicketApp.dll
+C:\Users\Hp\Desktop\Back-End\TicketApp\bin\Debug\net8.0\TicketApp.pdb
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\TicketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\TicketApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\TicketApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\TicketApp.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\TicketApp.dll
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\refint\TicketApp.dll
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\TicketApp.pdb
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\TicketApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\TicketApp\obj\Debug\net8.0\ref\TicketApp.dll
