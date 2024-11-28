@@ -63,19 +63,19 @@ namespace TicketApp.Classes
         {
             Halls.Add( hall );
         }
-        public void GetHall(Hall hall)
+        public void GetHall()
         {
             foreach (Hall h in Halls)
             {
                 Console.WriteLine(h.ToString());
             }
         }
-        public void ShowHall(Cinema cinema)
+        public void ShowHall(Hall hall)
         {
-                        Console.Write("Hall ID seçin: ");
+            Console.Write("Hall ID seçin: ");
             int hallId = int.Parse(Console.ReadLine());
 
-            Hall hall = cinema.Halls.Find(h => h.Id == hallId);
+            var result = Halls.Find(h => h.Id == hallId);
             if (hall != null)
             {
 
@@ -106,7 +106,7 @@ namespace TicketApp.Classes
             {
                 Console.WriteLine("Bu ID-yə aid hall tapılmadı.");
             }
-
         }
+        
     }
 }

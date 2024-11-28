@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\Ling\bin\Debug\net8.0\Ling.exe
+C:\Users\Hp\Desktop\Back-End\Ling\bin\Debug\net8.0\Ling.deps.json
+C:\Users\Hp\Desktop\Back-End\Ling\bin\Debug\net8.0\Ling.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\Ling\bin\Debug\net8.0\Ling.dll
+C:\Users\Hp\Desktop\Back-End\Ling\bin\Debug\net8.0\Ling.pdb
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\Ling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\Ling.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\Ling.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\Ling.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\Ling.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\Ling.dll
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\refint\Ling.dll
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\Ling.pdb
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\Ling.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\Ling\obj\Debug\net8.0\ref\Ling.dll

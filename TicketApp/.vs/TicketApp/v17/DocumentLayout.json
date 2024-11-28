@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Back-End\\TicketApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C40F70-F94E-4248-805F-BAC1CD5D7160}|TicketApp.csproj|c:\\users\\hp\\desktop\\back-end\\ticketapp\\classes\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C40F70-F94E-4248-805F-BAC1CD5D7160}|TicketApp.csproj|solutionrelative:classes\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95C40F70-F94E-4248-805F-BAC1CD5D7160}|TicketApp.csproj|c:\\users\\hp\\desktop\\back-end\\ticketapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C40F70-F94E-4248-805F-BAC1CD5D7160}|TicketApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C40F70-F94E-4248-805F-BAC1CD5D7160}|TicketApp.csproj|c:\\users\\hp\\desktop\\back-end\\ticketapp\\classes\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C40F70-F94E-4248-805F-BAC1CD5D7160}|TicketApp.csproj|solutionrelative:classes\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C40F70-F94E-4248-805F-BAC1CD5D7160}|TicketApp.csproj|c:\\users\\hp\\desktop\\back-end\\ticketapp\\classes\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Classes\\Seat.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\TicketApp\\Classes\\Seat.cs",
               "RelativeToolTip": "Classes\\Seat.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T11:31:45.467Z",
               "IsPinned": true,
@@ -54,7 +54,7 @@
               "RelativeDocumentMoniker": "Classes\\Ticket.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\TicketApp\\Classes\\Ticket.cs",
               "RelativeToolTip": "Classes\\Ticket.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T11:32:13.147Z",
               "EditorCaption": ""
@@ -67,33 +67,33 @@
               "RelativeDocumentMoniker": "Classes\\Cinema.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\TicketApp\\Classes\\Cinema.cs",
               "RelativeToolTip": "Classes\\Cinema.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T11:31:35.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Hall.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\TicketApp\\Classes\\Hall.cs",
               "RelativeDocumentMoniker": "Classes\\Hall.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\TicketApp\\Classes\\Hall.cs",
               "RelativeToolTip": "Classes\\Hall.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T11:31:13.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\TicketApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\TicketApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAC0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T11:30:19.949Z",
               "EditorCaption": ""
