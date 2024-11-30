@@ -30,8 +30,7 @@
               "RelativeToolTip": "Product.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T08:58:58.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T08:58:58.171Z"
             },
             {
               "$type": "Document",
@@ -39,9 +38,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Ling\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Ling\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Ling\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T08:42:49.969Z",
               "EditorCaption": ""

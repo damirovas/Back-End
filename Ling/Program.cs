@@ -30,11 +30,11 @@ namespace Ling
             products.Add(product6);
             products.Add(product7);
 
-             var list<Res> result= Filter(products, "a", 20, 4);
-            foreach (var result in results)
-            {
-                Console.WriteLine(result);
-            }
+            // var list<Res> result= Filter(products, "a", 20);
+            //foreach (var result in results)
+            //{
+            //    Console.WriteLine(result);
+            //}
 
             #region MyRegion
             //var query = from product in products
