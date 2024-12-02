@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\SchoolApp\bin\Debug\net8.0\SchoolApp.exe
+C:\Users\Hp\Desktop\Back-End\SchoolApp\bin\Debug\net8.0\SchoolApp.deps.json
+C:\Users\Hp\Desktop\Back-End\SchoolApp\bin\Debug\net8.0\SchoolApp.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\SchoolApp\bin\Debug\net8.0\SchoolApp.dll
+C:\Users\Hp\Desktop\Back-End\SchoolApp\bin\Debug\net8.0\SchoolApp.pdb
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\SchoolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\SchoolApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\SchoolApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\SchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\SchoolApp.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\SchoolApp.dll
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\refint\SchoolApp.dll
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\SchoolApp.pdb
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\SchoolApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\SchoolApp\obj\Debug\net8.0\ref\SchoolApp.dll
