@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DepoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6c44623ff4cd204c39a28dade21cb273d812dd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66502a425f05493a25088992d3e9c935de04ad15")]
 [assembly: System.Reflection.AssemblyProductAttribute("DepoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DepoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

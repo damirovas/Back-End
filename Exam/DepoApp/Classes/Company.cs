@@ -11,17 +11,16 @@ namespace DepoApp.Classes
 {
     public class Company
     {
-
-
+        private static int _id;
         public int Id { get; set; }
         public string Name { get; set; }
-        //public List<Depot> Depos {  get; set; }=new List<Depot>();
+        //public List<Depot> Depos {  get; set;} =new List<Depot>();
         //public List<Rent> Rents { get; set; } = new List<Rent>();
         static List<Depot> Depos { get; set; } = new List<Depot>();
         static List<Rent> Rents { get; set; } = new List<Rent>();
         public Company(string name)
         {
-
+            Id = ++_id;
             Name = name;
         }
         public void GetDepo()
@@ -51,7 +50,6 @@ namespace DepoApp.Classes
                 Console.WriteLine(depo);
             }
         }
-
         public override string ToString()
         {
             return $"{Id} {Name}";
@@ -66,8 +64,6 @@ namespace DepoApp.Classes
                 Console.WriteLine("Depo tapilmadi");
                 return null;  
             }
-
-         
             if (depo.RemainingArea >= rentarea)
             {
                 Rent rent = new Rent(depoid, customerid, rentarea);
@@ -81,19 +77,8 @@ namespace DepoApp.Classes
                 throw new DepoApp.Exceptions.NotEnoughField("Kifayet geder yer yoxdu");
                 return null;  
             }
+
             
-          
-
-        
-
-
-            //public Rent GetRent(int depoId, int customerId)
-            //{
-
-            //    return Rents.FirstOrDefault(r => r.DepoId == depoId && r.CustomerId == customerId);
-            //}
-
-
         }
     }
 }

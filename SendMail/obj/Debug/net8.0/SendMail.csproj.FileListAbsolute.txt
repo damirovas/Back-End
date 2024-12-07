@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Back-End\SendMail\bin\Debug\net8.0\SendMail.exe
+C:\Users\Hp\Desktop\Back-End\SendMail\bin\Debug\net8.0\SendMail.deps.json
+C:\Users\Hp\Desktop\Back-End\SendMail\bin\Debug\net8.0\SendMail.runtimeconfig.json
+C:\Users\Hp\Desktop\Back-End\SendMail\bin\Debug\net8.0\SendMail.dll
+C:\Users\Hp\Desktop\Back-End\SendMail\bin\Debug\net8.0\SendMail.pdb
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\SendMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\SendMail.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\SendMail.sourcelink.json
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\SendMail.dll
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\refint\SendMail.dll
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\SendMail.pdb
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\SendMail.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Back-End\SendMail\obj\Debug\net8.0\ref\SendMail.dll
