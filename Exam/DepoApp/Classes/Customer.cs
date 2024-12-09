@@ -23,7 +23,7 @@ namespace DepoApp.Classes
         }
         public override string ToString()
         {
-            return $"{Id} ,{FirstName},{LastName},{Mail}";
+            return $"{Id},{FirstName},{LastName},{Mail}";
         }
 
     }

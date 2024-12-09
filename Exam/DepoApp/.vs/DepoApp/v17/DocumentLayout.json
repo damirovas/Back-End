@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|c:\\users\\hp\\desktop\\back-end\\exam\\depoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|c:\\users\\hp\\desktop\\back-end\\exam\\depoapp\\classes\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|solutionrelative:classes\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|c:\\users\\hp\\desktop\\back-end\\exam\\depoapp\\classes\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +15,12 @@
       "RelativeMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|solutionrelative:classes\\basestaticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|c:\\users\\hp\\desktop\\back-end\\exam\\depoapp\\classes\\depot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|solutionrelative:classes\\depot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|c:\\users\\hp\\desktop\\back-end\\exam\\depoapp\\classes\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|solutionrelative:classes\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|c:\\users\\hp\\desktop\\back-end\\exam\\depoapp\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|solutionrelative:classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|c:\\users\\hp\\desktop\\back-end\\exam\\depoapp\\classes\\depot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F656B2F6-8646-4B70-85D8-6A3DE9AF0B67}|DepoApp.csproj|solutionrelative:classes\\depot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,32 +30,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Customer.cs",
               "RelativeDocumentMoniker": "Classes\\Customer.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Customer.cs",
               "RelativeToolTip": "Classes\\Customer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T22:13:44.027Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Depot.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Depot.cs",
+              "RelativeDocumentMoniker": "Classes\\Depot.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Depot.cs",
+              "RelativeToolTip": "Classes\\Depot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:12:31.442Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Rent.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Rent.cs",
               "RelativeDocumentMoniker": "Classes\\Rent.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Rent.cs",
               "RelativeToolTip": "Classes\\Rent.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:15:04.119Z"
+              "WhenOpened": "2024-12-02T22:15:04.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,22 +81,9 @@
               "RelativeDocumentMoniker": "Classes\\BaseStaticClass.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\BaseStaticClass.cs",
               "RelativeToolTip": "Classes\\BaseStaticClass.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T22:18:35.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Depot.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Depot.cs",
-              "RelativeDocumentMoniker": "Classes\\Depot.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Depot.cs",
-              "RelativeToolTip": "Classes\\Depot.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:12:31.442Z",
               "EditorCaption": ""
             },
             {
@@ -95,22 +94,9 @@
               "RelativeDocumentMoniker": "Classes\\Company.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Company.cs",
               "RelativeToolTip": "Classes\\Company.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wFIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T22:11:08.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:06:25.555Z",
               "EditorCaption": ""
             }
           ]

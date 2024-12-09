@@ -16,9 +16,7 @@ namespace DepoApp.Classes
             Console.WriteLine("Company'e Depo elave etmek ucun 1 secim edin");
             Console.WriteLine("Depo'ya Customer elave etmek ucun 2 secim edin");
             Console.WriteLine("REnt etmek ucun 3 secim edin");
-
             Console.WriteLine("Elave olunmus depolari gormek ucun 4 secim edin");
-
             int result= int.Parse(Console.ReadLine());
             return result;
         }
@@ -47,8 +45,6 @@ namespace DepoApp.Classes
             string mail = Console.ReadLine();
             Customer customer = new Customer(cfirstname,clastname,mail);
             return customer;
-
         }
-
     }
 }

@@ -34,8 +34,6 @@ namespace DepoApp
                         break;
                     case 3:
                         company.GetAllDepos();
-                        
-      
                         Console.WriteLine("Depo ID daxil et");
                         int depoid = int.Parse(Console.ReadLine());
                         Console.WriteLine("Musteri id dsxil et");
@@ -61,10 +59,7 @@ namespace DepoApp
                         break;
                 }
             }
-
-
         }
-
     }
 }
 
