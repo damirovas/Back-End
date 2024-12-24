@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwBkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T22:13:44.027Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -57,8 +56,7 @@
               "ViewState": "AgIAABAAAAAAAAAAAAAzwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T22:12:31.442Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -68,7 +66,7 @@
               "RelativeDocumentMoniker": "Classes\\Rent.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Back-End\\Exam\\DepoApp\\Classes\\Rent.cs",
               "RelativeToolTip": "Classes\\Rent.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T22:15:04.119Z",
               "EditorCaption": ""
@@ -83,8 +81,7 @@
               "RelativeToolTip": "Classes\\BaseStaticClass.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:18:35.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T22:18:35.733Z"
             },
             {
               "$type": "Document",
@@ -96,8 +93,7 @@
               "RelativeToolTip": "Classes\\Company.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wFIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:11:08.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T22:11:08.914Z"
             }
           ]
         }
