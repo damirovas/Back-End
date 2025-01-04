@@ -66,3 +66,33 @@ Id int primary key identity,
 AuthorId int foreign key references Authors(Id),
 BookId int foreign key references Books(Id)
 )
+insert into Authors
+values('Jane','Austen'),('Filankesov','Filankes'),
+		('Fesmankesov','Fesmankes')
+select * from Books
+insert into AuthorBooks(BookId,AuthorId)
+values (2,1),(1,2),(3,2)
+
+select b.[Name] as BookName,
+		b.[Page] as BookPage,
+		b.[Count] as BookCount,
+		b.Price as BookPrice,
+		g.[Name] as BookGenre
+ from Books as b
+join Genres as g
+on g.Id=b.GenreId
+select *from Books
+
+select b.[Name] as BookName,
+		b.[Page] as BookPage,
+		b.[Count] as BookCount,
+		b.Price as BookPrice,
+		g.[Name] as BookGenre
+ from Books as b
+ right join Genres as g
+on g.Id=b.GenreId
+
+
+
+
+
